@@ -13,6 +13,6 @@
 
 4: '7 0'
 5: 
-(six ASCII character string with each ending with the value in hex representation of ' 0x9 0xf 0xe 0x5 0x6 0x7 '
+(six character ASCII string with the characters' least significant nib of the value in the following order ' 0x9 0xf 0xe 0x5 0x6 0x7 '
 e.g. 'YoneVW' 
 6: '4 3 2 1 6 5'
