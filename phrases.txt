@@ -1,0 +1,18 @@
+1: 'Border relations with Canada have never been better'
+2: '1 2 4 8 16 32'
+3: (any of below)
+
+'0 207'
+'1 311'
+'2 707'
+'3 256'
+'4 389'
+'5 206'
+'6 682'
+'7 327'
+
+4: '7 0'
+5: 
+(six ASCII character string with each ending with the value in hex representation of ' 0x9 0xf 0xe 0x5 0x6 0x7 '
+e.g. 'YoneVW' 
+6: '4 3 2 1 6 5'
